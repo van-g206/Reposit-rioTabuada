@@ -1,2 +1,2 @@
-# Reposit-rioTabuada
+# RepositorioTabuada
 Tabuada de multiplicação
